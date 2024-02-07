@@ -1,0 +1,13 @@
+USE PRACTICAL;
+
+INSERT INTO ORDERDETAILS (OrderId,ProductID,Quantity,UnitPrice) VALUES
+(3,4,5,3000),
+(4,5,8,35500),
+(5,3,8,9000),
+(6,7,7,4000),
+(7,3,6,3300),
+(3,8,5,8000),
+(6,2,4,3000),
+(8,5,3,4500),
+(3,1,2,3000),
+(8,5,1,4000);
